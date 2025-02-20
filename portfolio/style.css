@@ -1,0 +1,47 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+header{
+    text-align: center;
+    padding: 10px;
+    background-color: aqua;
+}
+
+header img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+
+}
+
+section{
+    margin: 20px;
+}
+
+.project{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+
+h1 h2{
+    color: blue
+}
+
+#bio, #work{
+    background-color: lightblue;
+    padding: 15px;
+}
+
+footer{
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+}
